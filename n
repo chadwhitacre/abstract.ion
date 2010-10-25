@@ -1,3 +1,7 @@
+response.content_type = 'text/html'
+response.charset = 'utf8'
+response.skip_mimetype = True
+
 <html>
     <head>
         <title>The Principle of Abstraction</title>
