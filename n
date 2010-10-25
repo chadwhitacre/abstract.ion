@@ -50,9 +50,8 @@ response.skip_mimetype = True
             <h1>abstract.io/n</h1>
 
             <p><i>This is <a href="http://www.whit537.org">Chad Whitacre</a>'s
-                philosophy website.  I am researching abstraction as a key to
-                understanding neuroscience, metaphysics, and human
-                culture.</i></p>
+                philosophy website.  I am researching abstraction as a way to
+                understand the self and human culture.</i></p>
 
             <p><b>Thinking is abstraction. Abstraction is the trading off of
                 information for power, for the sake of flourishing.</b></p>
