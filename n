@@ -124,6 +124,12 @@ response.skip_mimetype = True
             <br />
             <br />
 
+            <object width="442" height="355"><param name="movie" value="http://www.youtube.com/v/XXi_ldNRNtM?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/XXi_ldNRNtM?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="442" height="355"></embed></object>
+            
+            <br />
+            <br />
+            <br />
+
             <iframe src="http://player.vimeo.com/video/819138" width="442" height="331" frameborder="0"></iframe>
 
             <br />
