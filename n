@@ -92,15 +92,16 @@ response.skip_mimetype = True
             <h2>Applying Abstraction</h2>
 
             <p>If indeed abstraction is the basic principle of human cognition,
-            then it would be expected that cognitive neuroscience would unveil
-            the mechanisms of abstraction in our minds/brains. Furthermore, it
-            would be expected that abstraction can unify the explanation of all
-            phenomena of human culture, because these all have cognition at
-            their root. So all cultural projects, from art to religion to
-            science to philosophy to government, would be able to be more
-            elegantly reformulated in terms of abstraction. Lastly, we would
-            expect a general, popular understanding of abstraction to
-            contribute to the further flourishing of our culture/species.</p>
+            then it would be expected that cognitive neuroscience and cognitive
+            psychology would unveil the mechanisms of abstraction in our
+            minds/brains. Furthermore, it would be expected that abstraction
+            can unify the explanation of all phenomena of human culture,
+            because these all have cognition at their root. So all cultural
+            projects, from art to religion to science to philosophy to
+            government, would be able to be more elegantly reformulated in
+            terms of abstraction. Lastly, we would expect a general, popular
+            understanding of abstraction to contribute to the further
+            flourishing of our culture/species.</p>
 
 
             <h2>See Also</h2>
