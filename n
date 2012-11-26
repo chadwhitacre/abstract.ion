@@ -1,7 +1,3 @@
-response.content_type = 'text/html'
-response.charset = 'utf8'
-response.skip_mimetype = True
-
 <html>
     <head>
         <title>abstract.io/n&mdash;Chad Whitacre's Philosophy Site</title>
@@ -109,10 +105,10 @@ response.skip_mimetype = True
             <p>Here are a few relevant posts from my old blog.</p>
 
             <ul>
-                <li>2007-06 | <a href="http://blag.whit537.org/2007/06/objects-scale-abstraction.html">Objects, Scale, Abstraction</a></li>
-                <li>2007-06 | <a href="http://blag.whit537.org/2007/06/boundaries.html">Boundaries</a></li>
-                <li>2007-06 | <a href="http://blag.whit537.org/2007/06/realm.html">Realm</a></li>
-                <li>2008-03 | <a href="http://blag.whit537.org/2008/03/thesis.html">A Thesis</a></li>
+                <li>2007-06 | <a href="http://whit537.org/2007/06/objects-scale-abstraction.html">Objects, Scale, Abstraction</a></li>
+                <li>2007-06 | <a href="http://whit537.org/2007/06/boundaries.html">Boundaries</a></li>
+                <li>2007-06 | <a href="http://whit537.org/2007/06/realm.html">Realm</a></li>
+                <li>2008-03 | <a href="http://whit537.org/2008/03/thesis.html">A Thesis</a></li>
             </ul>
 
 
