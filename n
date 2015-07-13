@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>abstract.io/n&mdash;Chad Whitacre's Philosophy Site</title>
+        <title>abstract.io/n</title>
         <style>
             BODY {
                 font: 11pt/14pt Arial, sans-serif;
