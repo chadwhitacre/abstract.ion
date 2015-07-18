@@ -42,7 +42,7 @@
         </style>
     </head>
     <body>
-        
+
         <div id="left-brain">
             <h1>abstract.io/n</h1>
 
@@ -63,7 +63,7 @@
             crystal display for a cognition of the user interface it conveys.
             Now I can use the computer, though in exchange I have given up my
             awareness of the nuances of each individual crystal.</p>
-            
+
             <p>This abstraction enables others in turn. From the cognition or
             awareness of a user interface as such, I turn my attention to the
             cognition of application windows on the screen. I abstract from
@@ -117,24 +117,18 @@
         <div id="right-brain">
 
             <a href="http://xkcd.com/676/" title="If I'm such a god, why isn't Maru *my* cat?"><img src="abstraction.png" /></a>
-            
-            <br />
-            <br />
-            <br />
-
-            <object width="442" height="355"><param name="movie" value="http://www.youtube.com/v/XXi_ldNRNtM?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/XXi_ldNRNtM?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="442" height="355"></embed></object>
-            
-            <br />
-            <br />
-            <br />
-
-            <iframe src="http://player.vimeo.com/video/819138" width="442" height="331" frameborder="0"></iframe>
 
             <br />
             <br />
             <br />
 
-            <embed id=VideoPlayback src=http://video.google.com/googleplayer.swf?docid=1249921811850501394&hl=en&fs=true style=width:442px;height:360px allowFullScreen=true allowScriptAccess=always type=application/x-shockwave-flash> </embed>
+            <iframe width="442" height="355" src="https://www.youtube.com/embed/XXi_ldNRNtM" frameborder="0" allowfullscreen></iframe>
+
+            <br />
+            <br />
+            <br />
+
+            <iframe width="442" height="355" src="https://www.youtube.com/embed/AfQxyVuLeCs" frameborder="0" allowfullscreen></iframe>
 
         </div>
 
